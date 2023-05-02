@@ -212,7 +212,11 @@ $$
 
 
 
+<<<<<<< HEAD
 <center><b><font color="＃1E90FF"><span style='font-family:仿宋;'>表4-1：多元线性回归</span></b></font></center>
+=======
+<center><b><span style='font-family:宋体;'>表4-1：多元线性回归</span></b></center>
+>>>>>>> origin/main
 
 
 
